@@ -1234,6 +1234,7 @@ html {
     }
 
     .menuicon {
+        display: flex;
         margin-top: 10px;
     }
 
@@ -1465,7 +1466,7 @@ html {
         visibility: visible;
         z-index: 999;
 
-        margin-top: 41px;
+        margin-top: 24px;
         margin-left: -29px;
     }
 
@@ -1492,7 +1493,7 @@ html {
         height: auto;
         z-index: 999;
 
-        margin-top: 193px;
+        margin-top: 181px;
         margin-left: 192px;
     }
 
